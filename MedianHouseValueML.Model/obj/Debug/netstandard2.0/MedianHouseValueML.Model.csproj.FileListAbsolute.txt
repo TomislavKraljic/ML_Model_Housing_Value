@@ -1,0 +1,10 @@
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\bin\Debug\netstandard2.0\MedianHouseValueML.Model.deps.json
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\bin\Debug\netstandard2.0\MedianHouseValueML.Model.dll
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\bin\Debug\netstandard2.0\MedianHouseValueML.Model.pdb
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\obj\Debug\netstandard2.0\MedianHouseValueML.Model.csprojAssemblyReference.cache
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\obj\Debug\netstandard2.0\MedianHouseValueML.Model.AssemblyInfoInputs.cache
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\obj\Debug\netstandard2.0\MedianHouseValueML.Model.AssemblyInfo.cs
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\obj\Debug\netstandard2.0\MedianHouseValueML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\obj\Debug\netstandard2.0\MedianHouseValueML.Model.dll
+C:\Users\Tomislav Kraljic\OneDrive\Desktop\MLModel\MedianHouseValue\MedianHouseValueML.Model\obj\Debug\netstandard2.0\MedianHouseValueML.Model.pdb
